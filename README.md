@@ -1,1 +1,6 @@
-It is the first website I have ever created, and it uses HTML and CSS. I completed a course on Coursera. They offered me a webpage to test my understanding of html and CSS. I used html and CSS to complete the website successfully.
+Much delighted to finish my first website in #coursera using html and css. 
+Thank You #coursera to give me a website to test my understanding.
+
+My first website UI
+
+![Screenshot (56)](https://github.com/santhoshmg160/HTML-CSS-AND-JAVASCRIPT/assets/96367822/081545d8-6d1b-4d6f-9f57-dbf4cf963116)
