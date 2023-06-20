@@ -1,1 +1,1 @@
-# HTML-CSS-AND-JAVASCRIPT
+It is the first website I have ever created, and it uses HTML and CSS. I completed a course on Coursera. They offered me a webpage to test my understanding of html and CSS. I used html and CSS to complete the website successfully.
