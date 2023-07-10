@@ -1,4 +1,4 @@
-Much delighted to finish my first website in #coursera using html and css. 
+Much delighted to share myfirst website in #coursera using html and css. 
 Thank You #coursera to give me a website to test my understanding.
 
 My first website UI
